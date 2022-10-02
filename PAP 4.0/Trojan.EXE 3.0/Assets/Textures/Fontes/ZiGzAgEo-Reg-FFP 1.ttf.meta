@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ab6402a45425c31458d5c7fc1767f742
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZiGzAgEo
+  fontNames:
+  - ZiGzAgEo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 71008a1186ce6e042b19d6c631224c17, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
